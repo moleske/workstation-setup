@@ -9,8 +9,6 @@ brew install git-author
 # Get latest version of vim
 brew install vim --with-override-system-vi
 
-brew cask install rowanj-gitx
-brew cask install sourcetree
 
 echo
 echo "Putting a sample git-pair file in ~/.pairs"

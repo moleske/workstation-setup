@@ -3,3 +3,4 @@ echo "Installing Java 8"
 brew tap caskroom/versions
 brew cask install java8
 source ${MY_DIR}/scripts/opt-in/java-tools.sh
+jenv add /Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/
